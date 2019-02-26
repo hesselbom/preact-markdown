@@ -9,7 +9,7 @@
   "repository": "preact-markdown",
   "dependencies": {
     "marked": "^0.3.6",
-    "preact-markup": "^1.6.0"
+    "preact-markup": "git+https://github.com/hesselbom/preact-markup.git"
   },
   "peer-dependencies": {
     "preact": "*"
